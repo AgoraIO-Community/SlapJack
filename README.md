@@ -31,7 +31,7 @@ To ensure that a player's laptop computer does not die while the game is in prog
 
 <p align="center">
   <img src="images/batteryLow.png"/>
-  <br><b>Battery indicator to player disruptions</b>
+  <br><b>Battery indicator to prevent player disruptions</b>
 </p>
 
 <p align="center">
